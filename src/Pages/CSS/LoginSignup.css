@@ -76,7 +76,7 @@
     .loginsignup-container{
         width: auto;
         max-width: 500px;
-        max-height: 500px;
+        max-height: 550px;
     }
     .loginsignup-container h1{
         margin: 10px 0px;
@@ -103,7 +103,7 @@
 
 @media (max-width:800px){
     .loginsignup-container{
-        padding: 20px 30px;
+        height: 450px;
     }
     .loginsignup-container h1{
         font-size: 24px;
