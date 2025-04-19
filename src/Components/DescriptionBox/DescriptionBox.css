@@ -22,7 +22,7 @@
     color: #555;
 }
 
-.descriptionbox-description{
+.descriptionbox-description{ 
     display: flex;
     flex-direction: column;
     gap: 25px;
